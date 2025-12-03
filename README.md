@@ -1,7 +1,6 @@
 # Smart Identity Extractor & Cross-Document KYC Validator  
 ### IT594 – Final Project  
-### Author: YOUR NAME  
-### Roll No: YOUR ROLL  
+ 
 ---
 
 ## 📌 Project Overview  
